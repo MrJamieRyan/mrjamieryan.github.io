@@ -1,25 +1,25 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      pygments
+markdown: kramdown
+highlighter:  pygments
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Jamie Ryan
-tagline:          'Software Developer'
-description:      'Ruminations on the world of technology
-url:              http://jamieryan.dev
-baseurl:          /
+title: Jamie Ryan
+tagline: 'Software Developer'
+description: 'Ruminations on the world of technology
+url: http://jamieryan.dev
+baseurl: /
 
 author:
-  name:           'Jamie Ryan'
-  url:            https://twitter.com/jamieryandev
+  name: 'Jamie Ryan'
+  url: https://twitter.com/jamieryandev
 
-paginate:         10
+paginate: 10
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
-github:
-  repo:           https://github.com/mrjamieryan
+github: https://github.com/mrjamieryan
+  repo: https://github.com/mrjamieryan
