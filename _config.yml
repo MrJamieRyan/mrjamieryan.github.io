@@ -3,7 +3,7 @@ title: Jamie Ryan
 tagline: "Software Developer"
 description: "Ruminations on the modern world of technology"
 url: https://mrjamieryan.github.io
-baseurl: "https://mrjamieryan.github.io"
+baseurl: "/"
 paginate: 10
 
 # About and contact
