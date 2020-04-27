@@ -3,8 +3,27 @@ layout: page
 title: About
 ---
 
-I am a software developer from Edinburgh, Scotland. In a past life I bounced between everything from startups to large companies until I discovered what I was good at. Building things digitally. I write here about pretty much everything.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-I graduated from CodeClan digital skills academy which gave me an excellent foundation in coding and how to live life as a developer and since then I have expanded to several new projects and lanaguages.
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-You can follow me on Twitter @JamieRyanDev
+There are currently two themes built on Poole:
+
+* [Hyde](https://hyde.getpoole.com)
+* [Lanyon](https://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Atom](https://atom.io)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
