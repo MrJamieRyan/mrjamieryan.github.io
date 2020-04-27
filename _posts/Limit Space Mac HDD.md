@@ -1,8 +1,6 @@
 ---
 layout: post
 title: How to limit the space used by Photos and Apple Music on your Mac
-author: Jamie Ryan
-date: "2019-02-19 14:35:23 +0000"
 ---
 
 If, like me, you subscribe to Apple Music and use iCloud Photos then you'll enjoy that both of these services sync beautifully and almost effortlessly to your Mac. However, what happens if you have lots of photos and music that you want to sync but you don't want your limited space on your HDD or SSD filling up. I have a solution.
