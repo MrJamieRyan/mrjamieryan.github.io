@@ -11,7 +11,7 @@ I use a 13 inch Macbook Air. It’s the 2019 model with the true tone display. I
 
 I use a 24 inch 4K monitor made by Electriq. This monitor was an absolute bargain. I can't go back to non-retina displays now and this was a great way maintain the resolution without parting with too much cash.
 
-I really like the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a very similar stand. It's not /quite/ as well designed but it does the same job just as well.
+I really like the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a very similar stand. It's not _quite_ as well designed but it does the same job just as well.
 
 I type on a Tecknet mechanical keyboard. There's just something so satisfying about clicky keys. I'm not at the stage yet where I'd call myself a mechanical keyboard enthusiast but I can definitely see why this happens.
 
