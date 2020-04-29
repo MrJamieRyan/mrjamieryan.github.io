@@ -19,7 +19,6 @@ I’m going to use a cliche here but bear with me. CodeClan was a roller-coaster
 
 The course was **intense** and fast paced. We would begin at 9:15 and keep going until between 4-5 in the afternoon. We would then get our homework and start coding again. We’d collect in little groups and work through the problems together and teach other, then we’d go home and keep working on the code. I was up until 1am on several occasions working out how the hell to get something working.
 
-  
 If that sounds intense, it’s because it is. This image is fairly accurate
 
 ![](/uploads/B0oaa0nIgAEKxuQ.jpg)
@@ -38,6 +37,6 @@ I also wanted to touch on the human aspect of this experience. My Cohort graduat
 
 My advice to anyone considering doing one of these courses is go for it. It’s changed my life it far more ways than I ever thought it would and I am very grateful to my cohort, my instructors and CodeClan.
 
-I’m very please to say that I **am** a Software Developer and always will be.
+I’m very pleased to say that I **am** a Software Developer and always will be.
 
 ![](/uploads/tenor.gif)
