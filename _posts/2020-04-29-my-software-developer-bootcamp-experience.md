@@ -38,5 +38,3 @@ I also wanted to touch on the human aspect of this experience. My Cohort graduat
 My advice to anyone considering doing one of these courses is go for it. It’s changed my life it far more ways than I ever thought it would and I am very grateful to my cohort, my instructors and CodeClan.
 
 I’m very pleased to say that I **am** a Software Developer and always will be.
-
-![](/uploads/tenor.gif)
