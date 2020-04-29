@@ -1,7 +1,7 @@
 # Setup
 title: Jamie Ryan
-tagline: "Software Developer"
-description: "Strongly Typed and Opinionated"
+tagline: "Loosely Typed"
+description: "Loosely Typed and Opinionated"
 url: https://mrjamieryan.github.io
 baseurl: "/"
 paginate: 10
