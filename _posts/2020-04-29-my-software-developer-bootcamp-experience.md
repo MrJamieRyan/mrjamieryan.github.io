@@ -15,14 +15,13 @@ Fast forward a few weeks and I enrolled in CodeClan's "Professional Software Dev
 
 I knew very little about how to write software. I'd considered myself a somewhat capable web developer before hand when in reality, I knew some basic CSS and HTML. I could change the colour of a text block or create a hyperlink, but I knew nowt about Javascript or anything else. I had however, always been **very** interested in technology.
 
-I’m going to use a cliche here but bear with me. CodeClan was a roller-coaster but not your typical roller-coaster. There were very little ups and downs for me, so in that regard it was like a very specific roller-coaster. This one.
+I’m going to use a cliche here but bear with me. CodeClan was a roller-coaster but not your typical roller-coaster. There were very little ups and downs for me, so in that regard it was like a very specific roller-coaster. [This one](https://www.youtube.com/embed/VzvqtT4hga0).
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VzvqtT4hga0](https://www.youtube.com/embed/VzvqtT4hga0 "https://www.youtube.com/embed/VzvqtT4hga0")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The course was **intense** and fast paced. We would begin at 9:15 and keep going until between 4-5 in the afternoon. We would then get our homework and start coding again. We’d collect in little groups and work through the problems together and teach other, then we’d go home and keep working on the code. I was up until 1am on several occasions working out how the hell to get something working.![](/uploads/tenor.gif)  
-If that sounds intense, it’s because it is. This image is fairly accurate
+The course was **intense** and fast paced. We would begin at 9:15 and keep going until between 4-5 in the afternoon. We would then get our homework and start coding again. We’d collect in little groups and work through the problems together and teach other, then we’d go home and keep working on the code. I was up until 1am on several occasions working out how the hell to get something working.
 
   
+If that sounds intense, it’s because it is. This image is fairly accurate
+
 ![](/uploads/B0oaa0nIgAEKxuQ.jpg)
 
 That 5% of the time you feel like a god? That’s incredible. That’s the buzz that just doesn’t come from any other job. I’ve worked in professional sport before and I get a bigger high from finally figuring out a problem than I ever did by winning a football match.
