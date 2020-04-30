@@ -151,21 +151,21 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Red */
-.theme-base-08 .sidebar {
+/* Christmas */
+.christmas .sidebar {
 	background-color: #ac4142;
 }
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover {
+.christmas .content a,
+.christmas .related-posts li a:hover {
 	color: #ac4142;
 }
 
-/* Orange */
-.theme-base-09 .sidebar {
+/* Halloween*/
+.halloween .sidebar {
 	background-color: #d28445;
 }
-.theme-base-09 .content a,
-.theme-base-09 .related-posts li a:hover {
+.halloween .content a,
+.halloween .related-posts li a:hover {
 	color: #d28445;
 }
 
@@ -187,7 +187,7 @@ a.sidebar-nav-item:focus {
 	color: #90a959;
 }
 
-/* Cyan */
+/* Standard */
 .standard-teal .sidebar {
 	background-color: #008080;
 }
