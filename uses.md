@@ -15,8 +15,6 @@ I type on a [Tecknet mechanical keyboard](https://www.amazon.co.uk/TeckNet-Mecha
 
 I use a magic mouse as my mouse. I really like the smoothness of the scrolling and that I don't need to lose all the gestures.
 
-I have a pocket book on my desk that I write in. You can ready why here
-
 I also have various POP! figures around my desk.
 
 # Software
