@@ -1,4 +1,4 @@
-/* Why are you poking around in my CSS? Nosey!/*
+/* Why are you poking around in my CSS?
 
 
 
@@ -151,21 +151,21 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Christmas */
-.christmas .sidebar {
+/* Red */
+.theme-base-08 .sidebar {
 	background-color: #ac4142;
 }
-.christmas .content a,
-.christmas .related-posts li a:hover {
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover {
 	color: #ac4142;
 }
 
-/* Halloween*/
-.halloween .sidebar {
+/* Orange */
+.theme-base-09 .sidebar {
 	background-color: #d28445;
 }
-.halloween .content a,
-.halloween .related-posts li a:hover {
+.theme-base-09 .content a,
+.theme-base-09 .related-posts li a:hover {
 	color: #d28445;
 }
 
@@ -187,12 +187,12 @@ a.sidebar-nav-item:focus {
 	color: #90a959;
 }
 
-/* Standard */
-.standard-teal .sidebar {
+/* Cyan */
+.theme-base-0c .sidebar {
 	background-color: #008080;
 }
-.standard-teal .content a,
-.standard-teal .related-posts li a:hover {
+.theme-base-0c .content a,
+.theme-base-0c .related-posts li a:hover {
 	color: #008080;
 }
 
