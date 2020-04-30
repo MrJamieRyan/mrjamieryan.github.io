@@ -188,11 +188,11 @@ a.sidebar-nav-item:focus {
 }
 
 /* Cyan */
-.theme-base-0c .sidebar {
+.standard-teal .sidebar {
 	background-color: #008080;
 }
-.theme-base-0c .content a,
-.theme-base-0c .related-posts li a:hover {
+.standard-teal .content a,
+.standard-teal .related-posts li a:hover {
 	color: #008080;
 }
 
