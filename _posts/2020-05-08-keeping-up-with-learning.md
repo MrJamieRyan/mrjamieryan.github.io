@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping up with learning
+title: Continuing to learn
 
 ---
 # This site
