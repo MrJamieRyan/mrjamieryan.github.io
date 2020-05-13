@@ -9,19 +9,39 @@ I use a 13 inch Macbook Air. It’s the 2019 model with the true tone display. I
 
 ### On My Desk
 
-I use a 28 inch ASUS VP28UQ 4k Monitor. It came with a very nice height adjustable stand. 
+I use a 28 inch ASUS VP28UQ 4k Monitor. It came with a very nice height adjustable stand. It also tilts into vertical mode which is super hand when looking at a large code base. 
 
-I really like the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a [very similar stand](https://www.amazon.co.uk/dp/B00WRDS0AU/ref=twister_B014HAMLEG?_encoding=UTF8&psc=1). It's not _quite_ as well designed but it does the same job just as well for a third of the price.
+I really like the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a [very similar stand](https://www.amazon.co.uk/dp/B00WRDS0AU/ref=twister_B014HAMLEG?_encoding=UTF8&psc=1). It's not _quite_ as well designed but it does the same job just as well for a third of the price. 
 
 I type on a [Tecknet mechanical keyboard](https://www.amazon.co.uk/TeckNet-Mechanical-Keyboard-Anti-ghosting-Aluminum/dp/B010IIKHBK/ref=sr_1_2?crid=2BXC2T3X6GB7&dchild=1&keywords=tecknet+keyboard&qid=1588105939&s=computers&sprefix=tecknet+%2Ccomputers%2C162&sr=1-2). There's just something so satisfying about clicky keys. I'm not at the stage yet where I'd call myself a mechanical keyboard enthusiast but I can definitely see why this happens to people.
 
-I use a magic mouse as my mouse. I really like the smoothness of the scrolling and that I don't need to lose all the gestures.
+I also have a Logitech K380 which could not be any different from the above keyboard. It's bluetooth, has circular keys and is virtually silent when typing. It can also pair to 3 devices and switch between them at the touch of a button which is super handy when switching between personal and work laptops.  
+
+My mouse is a Logitech MX Master. This mouse feels like it was made for me. It just fits in my hand perfectly. I love the side scroll wheel, forward and back buttons and the extra button in the thumb rest. I have that mapped to mission control. 
+
+My headphones are Anker Soundcore Life 2's. They are wireless, noise cancelling and super comfy. And they cost less than £50. Are Bose and Sony better? Sure. Are they 6 times better, justifying the price? Not for me. 
+
+All of this stuff is connected to an Uni 8 port dock. It has USB-C power pass through, HDMI, Ethernet, SD and Micro-SD card readers and 3 USB ports. IT also comes in a lovely little rubber case and the whole thing is just excellent quality. I love it. 
 
 I also have various POP! figures around my desk.
 
 ### Software
 
-I'm pretty boring with most of this, because I use nearly all of Apple's default apps. They work, they sync up and until one of them gives me a reason to change, I'll stick with them. Having said that, there are a few things Apple doesn't provide, such as
+#### Firefox
+
+I tried Firefox again a couple of months ago and I've stuck with it. It's really nice and the dev tools are better than Chrome. It's got all the extensions I need and has the added benefit of not eating RAM like it's at a hotel buffet. 
+
+#### Todoist
+
+This is my to-do app of choice. I run everything through todoist, from personal to work to a list if trips we want to go on and oddjobs around the house etc. It syncs with my calendar which means when I have an appointment, I can add tasks subtasks to that appointment in todoist, making sure I'm prepared. 
+
+#### Spotify
+
+This is just what I use for Music. There's nothing special about Spotify except for the oceans of playlists which are great. One reason that keeps me on Spotify though is the ability to play a song from my phone to my Amazon Echo's without fiddling with bluetooth. 
+
+#### Overcast
+
+This is where I listen to podcasts. The voice boost and smart speed features mean I can squeeze in more podcasts than when played at normal speed. I normally have podcasts at 1.2x with both enabled. 
 
 #### VS Code
 
