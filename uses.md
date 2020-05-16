@@ -5,23 +5,25 @@ title: Uses
 ---
 ### Computer
 
-I use a 13 inch Macbook Air. It’s the 2019 model with the true tone display. I quite like the keyboard but I am not a fan of it’s reliability issues. Thankfully Apple has extended this to 4 year coverage, which is a nice to have but I am hoping I never need it. I love everything else about this machine. It's light, fast and the perfect size.
+I use a base model 13 inch Macbook Air (2019). I love everything about this machine. It's light, fast and the perfect size.
+
+I haven't had any issues with the keyboard (yet?) but Apple has extended the coverages to 4 years, which is a nice to have but I am hoping I never need it. 
 
 ### On My Desk
 
-I use a 28 inch ASUS VP28UQ 4k Monitor. It came with a very nice height adjustable stand. It also tilts into vertical mode which is super hand when looking at a large code base. 
+I use a 28 inch ASUS VP28UQ 4k Monitor. It came with a very nice height adjustable stand which also tilts into vertical mode which is really handy when looking at a large code base.
 
-I really like the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a [very similar stand](https://www.amazon.co.uk/dp/B00WRDS0AU/ref=twister_B014HAMLEG?_encoding=UTF8&psc=1). It's not _quite_ as well designed but it does the same job just as well for a third of the price. 
+I really liked the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a [very similar stand](https://www.amazon.co.uk/dp/B00WRDS0AU/ref=twister_B014HAMLEG?_encoding=UTF8&psc=1). It's not _quite_ as well designed but it does the same job just as well for a third of the price.
 
 I type on a [Tecknet mechanical keyboard](https://www.amazon.co.uk/TeckNet-Mechanical-Keyboard-Anti-ghosting-Aluminum/dp/B010IIKHBK/ref=sr_1_2?crid=2BXC2T3X6GB7&dchild=1&keywords=tecknet+keyboard&qid=1588105939&s=computers&sprefix=tecknet+%2Ccomputers%2C162&sr=1-2). There's just something so satisfying about clicky keys. I'm not at the stage yet where I'd call myself a mechanical keyboard enthusiast but I can definitely see why this happens to people.
 
-I also have a Logitech K380 which could not be any different from the above keyboard. It's bluetooth, has circular keys and is virtually silent when typing. It can also pair to 3 devices and switch between them at the touch of a button which is super handy when switching between personal and work laptops.  
+I also have a Logitech K380 which could not be any different from the above keyboard. It's bluetooth, has circular keys and is virtually silent when typing. It can also pair to 3 devices and switch between them at the touch of a button which is super handy when switching between personal and work laptops.
 
-My mouse is a Logitech MX Master. This mouse feels like it was made for me. It just fits in my hand perfectly. I love the side scroll wheel, forward and back buttons and the extra button in the thumb rest. I have that mapped to mission control. 
+My mouse is a Logitech MX Master. This mouse feels like it was made for me. It just fits in my hand perfectly. I love the side scroll wheel, forward and back buttons and the extra button in the thumb rest.
 
-My headphones are Anker Soundcore Life 2's. They are wireless, noise cancelling and super comfy. And they cost less than £50. Are Bose and Sony better? Sure. Are they 6 times better, justifying the price? Not for me. 
+My headphones are Anker Soundcore Life 2's. They are wireless, noise cancelling and comfy. And they cost less than £50. Are Bose and Sony better? Sure. Are they 6 times better, justifying the price? Not for me.
 
-All of this stuff is connected to an Uni 8 port dock. It has USB-C power pass through, HDMI, Ethernet, SD and Micro-SD card readers and 3 USB ports. IT also comes in a lovely little rubber case and the whole thing is just excellent quality. I love it. 
+All of this stuff is connected to an Uni 8 port dock. It has USB-C power pass through, HDMI, Ethernet, SD and Micro-SD card readers and 3 USB ports. IT also comes in a lovely little rubber case and the whole thing is just excellent quality. I love it.
 
 I also have various POP! figures around my desk.
 
@@ -29,23 +31,27 @@ I also have various POP! figures around my desk.
 
 #### Firefox
 
-I tried Firefox again a couple of months ago and I've stuck with it. It's really nice and the dev tools are better than Chrome. It's got all the extensions I need and has the added benefit of not eating RAM like it's at a hotel buffet. 
+I tried Firefox again a couple of months ago and I've stuck with it. It's really nice and the dev tools are better than Chrome. It's got all the extensions I need and has the added benefit of not eating RAM like it's at a hotel buffet.
 
 #### Todoist
 
-This is my to-do app of choice. I run everything through todoist, from personal to work to a list if trips we want to go on and oddjobs around the house etc. It syncs with my calendar which means when I have an appointment, I can add tasks subtasks to that appointment in todoist, making sure I'm prepared. 
+This is my to-do app of choice. I run everything through Todoist, from personal to work to a list if trips we want to go on and odd-jobs around the house etc. It syncs with my calendar which means when I have an appointment, I can add tasks subtasks to that appointment in Todoist, making sure I'm prepared.
 
 #### Spotify
 
-This is just what I use for Music. There's nothing special about Spotify except for the oceans of playlists which are great. One reason that keeps me on Spotify though is the ability to play a song from my phone to my Amazon Echo's without fiddling with bluetooth. 
+2 reasons that keep me on Spotify: 
+
+1\. the ability to play a song from my phone to my Amazon Echo's without fiddling with bluetooth.
+
+2\. The oceans of user playlists. These are great for movie or tv show soundtracks or pretty much anything else. 
 
 #### Overcast
 
-This is where I listen to podcasts. The voice boost and smart speed features mean I can squeeze in more podcasts than when played at normal speed. I normally have podcasts at 1.2x with both enabled. 
+This is where I listen to podcasts. The voice boost and smart speed features mean I can squeeze in more podcasts than when played at normal speed. I normally have podcasts at 1.2x with both enabled.
 
 #### VS Code
 
-I started with atom and whilst that's good, VS code has just improved my life as a developer by an order of magnitude. It does everything I need. In fact, this webpage and this very text was edited and posted from VS Code. My favourite extensions are
+I started with Atom and whilst that's good, VS code has just improved my life as a developer by an order of magnitude. It does everything I need. In fact, this webpage and this very text was edited and posted from VS Code. My favourite extensions are
 
 * Bracket Pair Colorizer 2: This color co-ordinates brackets. My biggest flaw as a developer is typo's. I frequently miss out a closing bracket or something and this lets me see at a glance where I have opened and closed brackets.
 * Intellicode: Wonderful. Auto completes functions and variable names and so much more.
