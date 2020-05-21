@@ -7,7 +7,7 @@ title: Uses
 
 I use a base model 13 inch Macbook Air (2019). I love everything about this machine. It's light, fast and the perfect size.
 
-I haven't had any issues with the keyboard (yet?) but Apple has extended the coverages to 4 years, which is a nice to have but I am hoping I never need it. 
+I haven't had any issues with the keyboard (yet?) but Apple has extended the coverages to 4 years, which is a nice to have but I am hoping I never need it.
 
 ### On My Desk
 
@@ -15,11 +15,7 @@ I use a 28 inch ASUS VP28UQ 4k Monitor. It came with a very nice height adjustab
 
 I really liked the Rain mStand and before I pulled the trigger on it I was browsing through Amazon Basics and they do a [very similar stand](https://www.amazon.co.uk/dp/B00WRDS0AU/ref=twister_B014HAMLEG?_encoding=UTF8&psc=1). It's not _quite_ as well designed but it does the same job just as well for a third of the price.
 
-I type on a [Tecknet mechanical keyboard](https://www.amazon.co.uk/TeckNet-Mechanical-Keyboard-Anti-ghosting-Aluminum/dp/B010IIKHBK/ref=sr_1_2?crid=2BXC2T3X6GB7&dchild=1&keywords=tecknet+keyboard&qid=1588105939&s=computers&sprefix=tecknet+%2Ccomputers%2C162&sr=1-2). There's just something so satisfying about clicky keys. I'm not at the stage yet where I'd call myself a mechanical keyboard enthusiast but I can definitely see why this happens to people.
-
-I also have a Logitech K380 which could not be any different from the above keyboard. It's bluetooth, has circular keys and is virtually silent when typing. It can also pair to 3 devices and switch between them at the touch of a button which is super handy when switching between personal and work laptops.
-
-My mouse is a Logitech MX Master. This mouse feels like it was made for me. It just fits in my hand perfectly. I love the side scroll wheel, forward and back buttons and the extra button in the thumb rest.
+I type on a Microsoft Sculpt Ergonomic. I obviously use a keyboard for both work and play and so I need to make sure it's not going to cause me longterm damage. This Keyboard is the comfiest I've ever used. It took me around a week to get used to typing on it. 
 
 My headphones are Anker Soundcore Life 2's. They are wireless, noise cancelling and comfy. And they cost less than £50. Are Bose and Sony better? Sure. Are they 6 times better, justifying the price? Not for me.
 
@@ -39,11 +35,11 @@ This is my to-do app of choice. I run everything through Todoist, from personal 
 
 #### Spotify
 
-2 reasons that keep me on Spotify: 
+2 reasons that keep me on Spotify:
 
 1\. the ability to play a song from my phone to my Amazon Echo's without fiddling with bluetooth.
 
-2\. The oceans of user playlists. These are great for movie or tv show soundtracks or pretty much anything else. 
+2\. The oceans of user playlists. These are great for movie or tv show soundtracks or pretty much anything else.
 
 #### Overcast
 
