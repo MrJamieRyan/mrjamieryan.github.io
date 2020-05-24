@@ -1,10 +1,19 @@
 ---
 layout: page
 title: About
+
 ---
+Loosely Typed is written by Jamie Ryan, a Software Engineer from Edinburgh, Scotland.
 
-I am an agile Software Developer with a passion for learning and crafting memorable experiences. I have a technical mindset and my personal values are kindness and honesty. My goal is to continue growing my skills and using them to have a positive impact on the world.
+You can contact me below:
 
-I spent years of my life working for various different companies until I finally found a career that satisfied me. I'm now a full stack software developer building awesome products.
+* Email: [contact@looselytyped.co.uk](mailto: contact@looselytyped.co.uk)
+* Twitter: [@jamieryandev](https://twitter.com/jamieryandev)
 
-I decided to change career and enrolled in the CodeClan digital skills academy here in Edinburgh and I've never looked back. It's been the making of me as a human being.
+This website is hosted by GitHub pages and is written in Markdown. 
+
+SSL is provided by Cloudflare. 
+
+I used to be a usability and experience consultant. Past roles include Apple and other Fortune 500 companies, as well as smaller businesses and independents.
+
+I care deeply about intuitive design, user experience, human-focused software, and accessibility.

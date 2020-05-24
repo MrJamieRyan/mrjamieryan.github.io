@@ -8,5 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- _posts/keeping-up-with-learning.md
