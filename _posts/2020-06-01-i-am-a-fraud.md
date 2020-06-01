@@ -7,7 +7,7 @@ I’m a fraud.
 
 I’ve been affected by Imposter Syndrome for as long as I can remember. It’s not pleasant, all this crippling self doubt. Nothing in and of itself has caused me to be this way but I always expect anything good to end very shortly. Someone is going to come and tell me to pack it all up and move on, you’ve been faking this for long enough now, the party is over, it’s time for me to go home.
 
-That hasn’t happened. I know _objectively _it’s not likely to happen. Yet, the fear remains.
+That hasn’t happened. I know _objectively_ it’s not likely to happen. Yet, the fear remains.
 
 I’ve just been offered a job in my new chosen field of software development. A job which could not have been more squarely aimed at my skill-set if I had written it myself. Yet I’m still convinced they offered it to the wrong person. There was another Jamie it was meant to go to and now they're trying to find a way out of it (They’re not, I have absolutely no real reason to feel that’s the case)
 
@@ -29,4 +29,4 @@ These things rarely happen of course and I **know** this at the time and even af
 
 Bad things do happen. Pandemics hit, jobs are lost, people leave for one reason or another. All the while I need to convince myself on a daily basis that I have any clue what I’m doing or that I deserve anything remotely pleasant that comes my way.
 
-Am I really a fraud? No, but convincing myself is **way** harder than convincing everyone else. 
+Am I really a fraud? No, but convincing myself is **way** harder than convincing everyone else.
