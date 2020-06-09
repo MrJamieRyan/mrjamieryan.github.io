@@ -17,8 +17,6 @@ I feel like nobody likes me for me, they like me because of some unwritten and u
 
 Even my dog should probably be taken away from me. Why? I have no idea, I love him dearly and take care of him better than I take care of myself, yet I still wait for the day the SSPCA knocks on my door with a travel crate, ready to take him away to his “real” home.
 
-This way of thinking makes me behave in ways I would rather not. I actually really dislike alcoholic drinks, I’ve never been a fan and yet I drink because it’s socially unacceptable not to drink. You don’t get asked out and aren’t seen as being as fun if you don’t drink. I’ve never smoked or done drugs, I’ve got a very hard line with both of those, but drinking is something my peers can make me do. I also dislike most pubs and clubs. They are noisy, sticky, warm and I can never understand a word anyone is saying, so I try and laugh at what seems like an appropriate moment and then make an excuse and leave, I have become a master of the irish exit.
-
 How does all this manifest itself? I have trouble believing anything is for the long term. I’ve realised this year that I have commitment issues. Not to people, I have people in my life who I love dearly and would take a bullet for and I have my wonderful partner who I adore with all my heart. But to situations.
 
 * Made plans with me? I expect you to cancel them
